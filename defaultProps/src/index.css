@@ -1,0 +1,11 @@
+.student{
+  font-family: 'Courier New';
+  text-align: center;
+  padding: 25px;
+  border: 3px dotted rgb(41, 1, 41);
+  
+}
+
+.student .p{
+margin: 0;
+}

@@ -1,0 +1,28 @@
+.list-category{
+  margin: 10px;
+  font-family: 'Courier New';
+  background-color: blanchedalmond;
+  border: dashed;
+  border-radius: 10px;
+  text-align: center;
+  max-width: fit-content;
+  padding: 20px;
+}
+
+.listitems {
+  font-family: 'Courier New';
+  font-size: large;
+  color: blue;
+  text-align: center;
+  max-width: fit-content;
+}
+
+.listitems:hover li:hover{
+  color: brown;
+  cursor: pointer;
+}
+
+.divo{
+  display: flex;
+  justify-content: center;
+}

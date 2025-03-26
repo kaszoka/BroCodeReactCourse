@@ -1,0 +1,11 @@
+.button{
+    background-color: hsla(271, 46%, 56%, 0.562);
+    color: hsl(0, 0%, 100%);
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium';
+    font-size: large;
+    box-shadow: 8px 8px 20px black;
+}
+

@@ -1,0 +1,17 @@
+.welcome {
+  font-family: 'Courier New';
+  background-color: blue;
+  color: aliceblue;
+  padding: 20px;
+  margin: 1px;
+  border-radius: 20% 10px 8cap;
+}
+
+.login {
+  font-family: 'Courier New';
+  background-color: rgb(255, 0, 0);
+  color: aliceblue;
+  padding: 20px;
+  margin: 1px;
+  border-radius: 20% 10px 8cap;
+}

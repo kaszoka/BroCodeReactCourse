@@ -1,0 +1,60 @@
+.card{
+  border: 1px solid #b65eb6a4;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px violet;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+  background-color: #b65eb6a4;
+}
+
+.card .card-image{
+  max-width: 60%;
+  height: auto;
+  border-radius: 100%;
+  margin-bottom: 10px;
+}
+
+.card .card-title{
+font-family: 'Lucida Sans';
+margin: 0;
+color: blueviolet;
+}
+
+.card .card-text{
+  font-family: 'Courier New';
+  color: color-mix(in hsl longer hue, black 50%, hsl(0, 100%, 50%) 60%);
+}
+
+.cardo{
+  width: 60%;
+  height: 60%;
+  margin: 20px;
+  padding: 15px;
+  border: 3px solid hsl(150, 97%, 25%);
+  border-radius: 8%;
+  box-shadow: 15px 10px 20px hsl(150, 97%, 25%);
+  background-color: hsl(150, 85%, 80%);
+  text-align: center;
+}
+
+.cardo .cardo-image{
+  max-width: 60%;
+  height: auto;
+  border-radius: 100%;
+  border: 2px solid hsl(150, 97%, 25%);
+}
+
+.cardo .cardo-title{
+  font-family: 'Courier New';
+  font-size: 200%;
+  color: rgb(39, 49, 46);
+}
+
+.cardo .cardo-text{
+  font-family: 'Courier New';
+  font-size: 150%;
+  color: black;
+}
